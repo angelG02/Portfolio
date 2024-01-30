@@ -787,6 +787,11 @@ body.landing.is-preload:after {
 
 }
 
+#Sandbox {
+	height: 720px;
+	width: 100%;
+}
+
 /* Row */
 
 .row {
@@ -2672,6 +2677,11 @@ input[type="radio"]+label:before {
 
 .image.fit img {
 	width: 100%;
+}
+
+.image.fit div {
+	width: 100%;
+	display: block;
 }
 
 /* List */
