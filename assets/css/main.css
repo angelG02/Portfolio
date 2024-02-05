@@ -2679,6 +2679,11 @@ input[type="radio"]+label:before {
 	width: 100%;
 }
 
+
+.image.fit iframe {
+	width: 100%;
+}
+
 .image.fit div {
 	width: 100%;
 	display: block;
@@ -3196,6 +3201,10 @@ input[type="button"]:disabled,
 	position: relative;
 }
 
+.spotlight .image.main iframe {
+	position: relative;
+}
+
 .spotlight .content {
 	-moz-transform: translate(0, 0);
 	-webkit-transform: translate(0, 0);
@@ -3656,6 +3665,12 @@ body.landing #header {
 }
 
 #banner .content .image img {
+	border-radius: 100%;
+	display: block;
+	width: 100%;
+}
+
+#banner .content .image iframe {
 	border-radius: 100%;
 	display: block;
 	width: 100%;
