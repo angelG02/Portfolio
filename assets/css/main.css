@@ -3239,7 +3239,7 @@ input[type="button"]:disabled,
 .spotlight.top .content,
 .spotlight.bottom .content {
 	left: 0;
-	padding: 5.1em 0 3.1em 0;
+	padding: 1em 0 3.1em 0;
 	width: 100%;
 }
 
@@ -3256,7 +3256,7 @@ input[type="button"]:disabled,
 .spotlight.left .content,
 .spotlight.right .content {
 	height: 101%;
-	padding: 6em 3em;
+	padding: 1em 3em;
 	top: 0;
 	width: 28em;
 }
@@ -3767,16 +3767,16 @@ body.is-touch #banner {
 	/* Spotlight */
 
 	.spotlight.top .content {
-		padding: 3.825em 0 1.825em 0;
+		padding: 1em 0 1.825em 0;
 	}
 
 	.spotlight.bottom .content {
-		padding: 3.825em 0 2.95em 0;
+		padding: 1em 0 2.95em 0;
 	}
 
 	.spotlight.left .content,
 	.spotlight.right .content {
-		padding: 4.5em 2.5em;
+		padding: 1em 2.5em;
 		width: 25em;
 	}
 
@@ -3839,7 +3839,7 @@ body.is-touch #banner {
 		border-top-width: 0.35em !important;
 		bottom: auto !important;
 		left: auto !important;
-		padding: 4.5em 2.5em 2.5em 2.5em !important;
+		padding: 1em 2.5em 2.5em 2.5em !important;
 		position: relative;
 		right: auto !important;
 		text-align: center;
@@ -3982,7 +3982,7 @@ body.is-touch #banner {
 
 	.spotlight .content {
 		border-top-width: 0.2em !important;
-		padding: 3.25em 1.5em 1.25em 1.5em !important;
+		padding: 1em 1.5em 1.25em 1.5em !important;
 	}
 
 	/* Wrapper */
@@ -4245,7 +4245,7 @@ body.is-touch #banner {
 	}
 
 	.spotlight .content {
-		padding: 3em 1.25em 1em 1.25em !important;
+		padding: 1em 1.25em 1em 1.25em !important;
 	}
 
 	/* Wrapper */
